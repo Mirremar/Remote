@@ -14,9 +14,17 @@ git remote add <имя для репозитория> <ссылка>
 git pull
 ```
 ```C#
+<<<<<<< HEAD
 for(int i=0; i<10; i++)
 {
     Console.WriteLine(i*i);
 
 }
 ```
+=======
+while(n<0)
+{
+  n++
+}
+```
+>>>>>>> 740b4669186513969d2303ceeeb5423c0e941d9a

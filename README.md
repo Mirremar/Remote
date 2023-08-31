@@ -13,3 +13,10 @@ git remote add <имя для репозитория> <ссылка>
 ```
 git pull
 ```
+```C#
+for(int i=0; i<10; i++)
+{
+    Console.WriteLine(i*i);
+
+}
+```
